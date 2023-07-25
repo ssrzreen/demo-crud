@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "pepo",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 111,
+      "Comment": "sd",
+      "date": "2023-07-12T17:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "sd",
+      "category": "Electronic",
+      "freshness": "Brand new",
+      "price": 20,
+      "Comment": "new",
+      "date": "2023-07-19T17:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "test1",
+      "category": "Electronic",
+      "freshness": "Brand new",
+      "price": 20,
+      "Comment": "test",
+      "date": "2023-07-15T17:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "test2",
+      "category": "Vegetables",
+      "freshness": "Brand new",
+      "price": 21,
+      "Comment": "test",
+      "date": "2023-07-18T17:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "test3",
+      "category": "Vegetables",
+      "freshness": "Brand new",
+      "price": 100,
+      "Comment": "test",
+      "date": "2023-07-16T17:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "sd",
+      "category": "Vegetables",
+      "freshness": "Brand new",
+      "price": 215,
+      "Comment": "sd",
+      "date": "2023-07-20T17:00:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
